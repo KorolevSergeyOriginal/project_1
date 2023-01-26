@@ -7,3 +7,5 @@
 # for i in range(n):
 #     print(i+1, m)
 #     m = float(m + m * p / 100)
+
+# Отредактированный код!
